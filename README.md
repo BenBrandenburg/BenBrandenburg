@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ben 👋
 
-<!--
-**BenBrandenburg/BenBrandenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at HAW Hamburg.
 
-Here are some ideas to get you started:
+## Interests
+- Embedded Systems
+- Software Development
+- Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Java
+- C
+- C++
+- ARM Assembly
+- Git / GitLab
+
+## Projects
+- ARM Assembly Stopwatch
+- Embedded Rotary Encoder System in C
+- Stack-Based Calculator in C
+- Personal Game Development Projects
+
+Currently looking to expand my practical software engineering experience through projects and student positions.
